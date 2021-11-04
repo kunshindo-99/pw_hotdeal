@@ -1,0 +1,7 @@
+{
+    "search_data":{
+        "valid_value": "buffet",
+        "invalid_value": "bufffer",
+        "erro_mess_no_product_found": "Không tìm thấy sản phẩm phù hợp yêu cầu."
+    }
+}

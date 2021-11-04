@@ -1,0 +1,13 @@
+{
+    "valid_account": {
+        "email": "thanh159.msa@gmail.com",
+        "password": "Thanh4499",
+        "password2": "Thanh4499",
+        "birthday":{
+            "day": "2",
+            "month": "9",
+            "year": "1999"
+        },
+        "gender": "other" 
+    }
+}
